@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Building+clean%2C+efficient+code" alt="Typing SVG" />
 
   <h1>Hi, I'm Masha 👋</h1>
-  <h3>✨ Frontend Magician | UI/UX Enthusiast
+  <h3> Frontend Magician | UI/UX Enthusiast
  | "Making computers do cute things since 2022"</h3>
 
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whisperingcodes.com)
@@ -52,10 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masha-a-m&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" width="90%"/>
 </div>
 
-<!-- Add this for a minimalist trophy case -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masha-a-m&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%"/>
-</div>
 
 
 
