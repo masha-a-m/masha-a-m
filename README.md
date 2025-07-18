@@ -7,7 +7,7 @@
 ] | ["Making computers do cute things since 2022"]</h3>
 
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whisperingcodes.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/masha_a_m)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/masha-a-m)
   [![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail)](mailto:whisperingcodes@gmail.com)
 </div>
 
@@ -32,56 +32,33 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat-square&logo=wordpress)
 
----
-
-### ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project One</h3>
-      <div align="center">
-        <a href="https://github.com/your/project-one">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-one&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true" width="400"/>
-        </a>
-      </div>
-      <p align="center">Brief description (max 1 line)</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Two</h3>
-      <div align="center">
-        <a href="https://github.com/your/project-two">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-two&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true" width="400"/>
-        </a>
-      </div>
-      <p align="center">Brief description (max 1 line)</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
 <!-- Add this anywhere for a minimalist activity graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masha-a-m&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" width="90%"/>
 </div>
 
 <!-- Add this for a minimalist trophy case -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=masha-a-m&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%"/>
 </div>
 
 ---
@@ -93,12 +70,6 @@
 <div align="center">
   <h3>📫 How to reach me</h3>
   <p>[whisperingcodes@gmail.com]</p>
-  
-  <h3>🌱 Currently learning</h3>
-  <p>[Next.js]</p>
-  
-  <h3>💬 Ask me about</h3>
-  <p>[Frontend]</p>
   
   <img src="https://komarev.com/ghpvc/?username=masha-a-m&color=000000&style=flat-square" alt="Profile views"/>
 </div>
