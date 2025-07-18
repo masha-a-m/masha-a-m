@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Building+clean%2C+efficient+code" alt="Typing SVG" />
 
   <h1>Hi, I'm Masha 👋</h1>
-  <h3> Frontend Developer | UI/UX Enthusiast
- | "Making computers do cute things since 2022"</h3>
+  <h3> Frontend Developer | "Making computers do cute things since 2022"</h3>
 
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whisperingcodes.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/masha-a-m)
