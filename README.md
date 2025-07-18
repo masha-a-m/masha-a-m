@@ -2,9 +2,9 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Building+clean%2C+efficient+code" alt="Typing SVG" />
 
-  <h1>Hi, I'm [Masha] 👋</h1>
-  <h3>[✨ Frontend Magician | UI/UX Enthusiast
-] | ["Making computers do cute things since 2022"]</h3>
+  <h1>Hi, I'm Masha 👋</h1>
+  <h3>✨ Frontend Magician | UI/UX Enthusiast
+ | "Making computers do cute things since 2022"</h3>
 
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whisperingcodes.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/masha-a-m)
@@ -12,10 +12,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/masha-a-m/main/assets/minimalist-divider.svg" width="500"/>
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masha-a-m&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&hide=issues&count_private=true&include_all_commits=true"/>
@@ -48,44 +44,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat-square&logo=wordpress)
 
-### 🚀 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#typescript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#mysql">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#wordpress">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-  </tr>
-</table>
-
-<!-- Alternative: Giant Animated Badges -->
-<div align="center">
-  <img height="40" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img height="40" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
-  <img height="40" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
-  <img height="40" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge">
-</div>
 
 ---
 
