@@ -48,6 +48,44 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat-square&logo=wordpress)
 
+### 🚀 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#typescript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#mysql">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#wordpress">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>
+  </tr>
+</table>
+
+<!-- Alternative: Giant Animated Badges -->
+<div align="center">
+  <img height="40" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+  <img height="40" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
+  <img height="40" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img height="40" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge">
+</div>
 
 ---
 
@@ -61,18 +99,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=masha-a-m&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%"/>
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/masha-a-m/masha-a-m/main/assets/minimalist-divider.svg" width="500"/>
-</div>
-
-<div align="center">
-  <h3>📫 How to reach me</h3>
-  <p>[whisperingcodes@gmail.com]</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=masha-a-m&color=000000&style=flat-square" alt="Profile views"/>
-</div>
 
 <!---
 masha-a-m/masha-a-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
