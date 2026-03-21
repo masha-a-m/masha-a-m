@@ -26,14 +26,20 @@
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat-square&logo=mui)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
 
