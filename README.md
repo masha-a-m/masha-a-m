@@ -42,6 +42,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat-square&logo=wordpress)
+![Shopify](https://img.shields.io/badge/-Shopify-000000?style=flat-square&logo=shopify)
+![Squarespace](https://img.shields.io/badge/-Squarespace-000000?style=flat-square&logo=squarespace)
+![Framer](https://img.shields.io/badge/-Framer-000000?style=flat-square&logo=framer)
+![Wix](https://img.shields.io/badge/-Wix-000000?style=flat-square&logo=wix)
+![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat-square&logo=webflow)
+![Showit](https://img.shields.io/badge/-Showit-000000?style=flat-square&logo=showit)
 
 
 ---
