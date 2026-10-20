@@ -5,7 +5,7 @@
   <h1>Hi, I'm Masha 👋</h1>
   <h3> Frontend Developer | "Making computers do cute things since 2022"</h3>
 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whisperingcodes.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whispering-codes.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/masha-a-m)
   [![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail)](mailto:whisperingcodes@gmail.com)
 </div>
