@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Building+clean%2C+efficient+code" alt="Typing SVG" />
 
   <h1>Hi, I'm Masha 👋</h1>
-  <h3> Frontend Developer | "Making computers do cute things since 2022"</h3>
+  <h3> Mobile App & Website Developer | "Making computers do cute things since 2022"</h3>
 
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://whispering-codes.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/masha-a-m)
@@ -35,6 +35,14 @@
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat-square&logo=mui)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
+**Mobile:**  
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart)
+![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android)
+
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
@@ -42,6 +50,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
